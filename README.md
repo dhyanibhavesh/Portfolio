@@ -50,10 +50,10 @@ Let me know if you want a README or GitHub-style documentation for this as well!
 
 
 
-Ask ChatGPT
 
 
 
-Tools
+
+
 
 
